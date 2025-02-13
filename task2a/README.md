@@ -22,3 +22,19 @@ task2a/
     └── tests
 ├── README.md
 ```
+
+## Setup
+
+1. Install dependencies:
+
+```bash
+yarn
+```
+
+2. Run the development server
+
+```
+yarn start
+```
+
+3. Go to `http://localhost:3000` on your browser

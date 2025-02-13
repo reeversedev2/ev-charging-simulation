@@ -48,6 +48,7 @@ yarn
 yarn start
 ```
 
+4. Go to `http://localhost:3000` on your browser
 ## Requirements
 
 - Node.js 20+ (https://nodejs.org/dist/v22.14.0/node-v22.14.0.pkg)
