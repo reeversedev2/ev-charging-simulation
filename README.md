@@ -9,7 +9,7 @@ ev-simulation/
 ├── task1/         # Task 1 - Charging simulation
 ├── task2a/        # Task 2A - Frontend UI for Mock simulation
 ├── src/           # Source code
-└── tests/         # Test files
+    └── tests/     # Test files
 ```
 
 ## How to get started?
